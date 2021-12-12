@@ -1,0 +1,6 @@
+{
+	"ip":"parkouropu.aternos.me:19505",
+	"port": "19505",
+	"name": "welcome to server",
+	"auto-night-skip":"false"
+}
